@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
 
-HACKTOBERFEST IS DIGITALOCEAN’S ANNUAL EVENT THAT ENCOURAGES PEOPLE TO CONTRIBUTE TO OPEN SOURCE THROUGHOUT OCTOBER. MUCH OF MODERN TECH INFRASTRUCTURE—INCLUDING SOME OF DIGITALOCEAN’S OWN PRODUCTS—RELIES ON OPEN-SOURCE PROJECTS BUILT AND MAINTAINED BY PASSIONATE PEOPLE WHO OFTEN DON’T HAVE THE STAFF OR BUDGETS TO DO MUCH MORE THAN KEEP THE PROJECT ALIVE. HACKTOBERFEST IS ALL ABOUT GIVING BACK TO THOSE PROJECTS, SHARPENING SKILLS, AND CELEBRATING ALL THINGS OPEN SOURCE, ESPECIALLY THE PEOPLE THAT MAKE OPEN SOURCE SO SPECIAL.
+𝐇𝐀𝐂𝐊𝐓𝐎𝐁𝐄𝐑𝐅𝐄𝐒𝐓 𝐈𝐒 𝐃𝐈𝐆𝐈𝐓𝐀𝐋𝐎𝐂𝐄𝐀𝐍’𝐒 𝐀𝐍𝐍𝐔𝐀𝐋 𝐄𝐕𝐄𝐍𝐓 𝐓𝐇𝐀𝐓 𝐄𝐍𝐂𝐎𝐔𝐑𝐀𝐆𝐄𝐒 𝐏𝐄𝐎𝐏𝐋𝐄 𝐓𝐎 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐄 𝐓𝐎 𝐎𝐏𝐄𝐍 𝐒𝐎𝐔𝐑𝐂𝐄 𝐓𝐇𝐑𝐎𝐔𝐆𝐇𝐎𝐔𝐓 𝐎𝐂𝐓𝐎𝐁𝐄𝐑. 𝐌𝐔𝐂𝐇 𝐎𝐅 𝐌𝐎𝐃𝐄𝐑𝐍 𝐓𝐄𝐂𝐇 𝐈𝐍𝐅𝐑𝐀𝐒𝐓𝐑𝐔𝐂𝐓𝐔𝐑𝐄—𝐈𝐍𝐂𝐋𝐔𝐃𝐈𝐍𝐆 𝐒𝐎𝐌𝐄 𝐎𝐅 𝐃𝐈𝐆𝐈𝐓𝐀𝐋𝐎𝐂𝐄𝐀𝐍’𝐒 𝐎𝐖𝐍 𝐏𝐑𝐎𝐃𝐔𝐂𝐓𝐒—𝐑𝐄𝐋𝐈𝐄𝐒 𝐎𝐍 𝐎𝐏𝐄𝐍-𝐒𝐎𝐔𝐑𝐂𝐄 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒 𝐁𝐔𝐈𝐋𝐓 𝐀𝐍𝐃 𝐌𝐀𝐈𝐍𝐓𝐀𝐈𝐍𝐄𝐃 𝐁𝐘 𝐏𝐀𝐒𝐒𝐈𝐎𝐍𝐀𝐓𝐄 𝐏𝐄𝐎𝐏𝐋𝐄 𝐖𝐇𝐎 𝐎𝐅𝐓𝐄𝐍 𝐃𝐎𝐍’𝐓 𝐇𝐀𝐕𝐄 𝐓𝐇𝐄 𝐒𝐓𝐀𝐅𝐅 𝐎𝐑 𝐁𝐔𝐃𝐆𝐄𝐓𝐒 𝐓𝐎 𝐃𝐎 𝐌𝐔𝐂𝐇 𝐌𝐎𝐑𝐄 𝐓𝐇𝐀𝐍 𝐊𝐄𝐄𝐏 𝐓𝐇𝐄 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐀𝐋𝐈𝐕𝐄. 𝐇𝐀𝐂𝐊𝐓𝐎𝐁𝐄𝐑𝐅𝐄𝐒𝐓 𝐈𝐒 𝐀𝐋𝐋 𝐀𝐁𝐎𝐔𝐓 𝐆𝐈𝐕𝐈𝐍𝐆 𝐁𝐀𝐂𝐊 𝐓𝐎 𝐓𝐇𝐎𝐒𝐄 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒, 𝐒𝐇𝐀𝐑𝐏𝐄𝐍𝐈𝐍𝐆 𝐒𝐊𝐈𝐋𝐋𝐒, 𝐀𝐍𝐃 𝐂𝐄𝐋𝐄𝐁𝐑𝐀𝐓𝐈𝐍𝐆 𝐀𝐋𝐋 𝐓𝐇𝐈𝐍𝐆𝐒 𝐎𝐏𝐄𝐍 𝐒𝐎𝐔𝐑𝐂𝐄, 𝐄𝐒𝐏𝐄𝐂𝐈𝐀𝐋𝐋𝐘 𝐓𝐇𝐄 𝐏𝐄𝐎𝐏𝐋𝐄 𝐓𝐇𝐀𝐓 𝐌𝐀𝐊𝐄 𝐎𝐏𝐄𝐍 𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐎 𝐒𝐏𝐄𝐂𝐈𝐀𝐋.
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
