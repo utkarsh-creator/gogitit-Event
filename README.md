@@ -44,21 +44,17 @@ Check Contributing topic to find out about branching
 
 
 ### Prerequisites
-'''sh
+
 HTML - https://youtu.be/Ut4RpySLM6Y
-'''
-'''sh
+
 CSS  - https://youtu.be/1PnVor36_40
-'''
-'''sh
+
 GIT  - https://git-scm.com/
-'''
-'''sh
+
 GIT (Installation)  - https://youtu.be/2j7fD92g-gE
-'''
-'''sh
+
 VSC (Installation)  - https://youtu.be/JPZsB_6yHVo
-'''
+
 
 
 ----------
