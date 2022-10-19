@@ -34,7 +34,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/csivitu/vbay/
+git clone https://github.com/MFC-VIT/Go_Git_It
 ```
 2. Start a new branch.
 ```sh
