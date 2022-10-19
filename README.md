@@ -86,11 +86,11 @@ $ git clone https://github.com/MFC-VIT/Go_Git_It.git
 ```
 
 > This makes a local copy of the repository in your machine.
-Once you have cloned the `Hacktoberfest-2022` repository in Github, move to that folder first using change directory command on Linux, Mac, and Windows(PowerShell to be used).
+Once you have cloned the `Go_Git_it` repository in Github, move to that folder first using change directory command on Linux, Mac, and Windows(PowerShell to be used).
 
 ```sh
-# This will change directory to a folder Hacktoberfest-2022
-$ cd Hackotberfest2022
+# This will change directory to a folder Go_Git_It
+$ cd Go_Git_it
 ```
 
 Move to this folder for all other commands.
@@ -101,11 +101,11 @@ Run the following commands to see that *your local copy* has a reference to *you
 
 ```sh
 $ git remote -v
-origin  https://github.com/Your_Username/Hacktoberfest-2022.git (fetch)
-origin  https://github.com/Your_Username/Hacktoberfest-2022.git (push)
+origin  https://github.com/Your_Username/Go_Git_it.git (fetch)
+origin  https://github.com/Your_Username/Go_Git_it.git (push)
 ```
 
-Now, let's add a reference to the original [Hacktoberfest-2022]https://github.com/Open-Source-you/Hackotberfest2022) repository using
+Now, let's add a reference to the original [Hacktoberfest-2022](https://github.com/MFC-VIT/Go_Git_it) repository using
 
 
 ### 4. Sync it :recycle:
@@ -120,7 +120,7 @@ $ git fetch --all --prune
 $ git checkout main
 # Reset local `main` branch to match the `upstream` repository's `main` branch
 $ git reset --hard upstream/main
-# Push changes to your forked `Hacktoberfest-2021` repo
+# Push changes to your forked `Go_Git_It` repo
 $ git push origin main
 ```
 
