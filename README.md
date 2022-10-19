@@ -72,7 +72,7 @@ Star the repository by pressing the topmost-right button to start your wonderful
 
 ### 1. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [HacktoberFest-2022](https://github.com/MFC-VIT/Go_Git_It by using the <a href="https://github.com/MFC-VIT/Go_Git_It/fork"><kbd><b>Fork</b></kbd></a> button.
+You can get your own fork/copy of [HacktoberFest-2022](https://github.com/MFC-VIT/Go_Git_It) by using the <a href="https://github.com/MFC-VIT/Go_Git_It/fork"><kbd><b>Fork</b></kbd></a> button.
 
 
 ### 2. Clone it :busts_in_silhouette:
