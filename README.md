@@ -72,7 +72,7 @@ Star the repository by pressing the topmost-right button to start your wonderful
 
 ### 1. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [HacktoberFest-2022](https://github.com/Open-Source-you/Hackotberfest2022 by using the <a href="https://github.com/Open-Source-you/HacktoberFest2022/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button.
+You can get your own fork/copy of [HacktoberFest-2022](https://github.com/MFC-VIT/Go_Git_It by using the <a href="https://github.com/MFC-VIT/Go_Git_It/fork"><kbd><b>Fork</b></kbd></a> button.
 
 
 ### 2. Clone it :busts_in_silhouette:
@@ -82,7 +82,7 @@ You can get your own fork/copy of [HacktoberFest-2022](https://github.com/Open-S
 You need to clone or (download) it to local machine using
 
 ```sh
-$ git clone https://github.com/Open-Source-you/Hackotberfest2022.git
+$ git clone https://github.com/MFC-VIT/Go_Git_It.git
 ```
 
 > This makes a local copy of the repository in your machine.
